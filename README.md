@@ -62,6 +62,7 @@ No subscriptions. No cloud lock-in. Your files stay on your disk in an open JSON
 - Distraction-free writing with typewriter scrolling and paragraph focus
 - Real-time word count, reading time, and session statistics
 - Split-view and multi-pane layout (up to 4 panes, freely nestable)
+- Multiple themes: Dark, Light, Sepia, Night Owl, Focus, High Contrast, and Auto (follows system)
 
 ### 📖 Book Structure
 
@@ -96,6 +97,13 @@ No subscriptions. No cloud lock-in. Your files stay on your disk in an open JSON
 - POS-aware rules that understand dialogue, narrative, and literary constructs
 - Inline highlighting with one-click correction
 
+### 📊 Writing Statistics
+
+- Daily word goal with progress bar and streak counter
+- Session timer — tracks active writing time per sitting
+- Weekly overview with per-day word counts
+- Book-level totals: total words, estimated reading time
+
 ### 🔎 Navigation
 
 - **Quick Jump** (`Cmd/Ctrl+P`) — instant fuzzy search across your entire book
@@ -117,6 +125,7 @@ No subscriptions. No cloud lock-in. Your files stay on your disk in an open JSON
 ### 🔒 Data Safety
 
 - Auto-save every 30 seconds with crash recovery
+- **Scene snapshots** — lightweight manual checkpoints before experimenting with a scene
 - Automatic hourly backups with configurable retention
 - **Open storage format** — plain JSON files, no vendor lock-in
 - Git-based version history for your manuscript
