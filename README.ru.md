@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/RALIST/writer-studio-releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/RALIST/writer-studio-releases?style=flat-square&label=Последний%20релиз&color=4a90d9" alt="Последний релиз">
+    <img src="https://img.shields.io/github/v/release/RALIST/writer-studio-releases?style=flat-square&label=Latest%20Release&color=4a90d9" alt="Последний релиз">
   </a>
   <img src="https://img.shields.io/badge/платформы-macOS%20%7C%20Windows%20%7C%20Linux-blue?style=flat-square" alt="Платформы">
   <img src="https://img.shields.io/badge/local--first-без%20облака-green?style=flat-square" alt="Local First">
